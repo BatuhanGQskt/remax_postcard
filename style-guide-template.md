@@ -1,0 +1,5 @@
+--green-blue: #1C65ADff;
+--black: #080505ff;
+--polynesian-blue: #0153A3ff;
+--antiflash-white: #F1F3F5ff;
+--blue-gray: #6E9ECBff;
